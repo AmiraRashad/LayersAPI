@@ -1,0 +1,4 @@
+{
+    "db" : "mongodb+srv://DBuser:amira123@cluster0.gdban.mongodb.net/layers?retryWrites=true&w=majority",
+    "jwtPrivateKey" : "SomePrivateKey"
+}
