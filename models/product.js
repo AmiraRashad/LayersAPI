@@ -17,6 +17,5 @@ function validateproduct(data)
     });
     return schema.validate(data);
 }
-
 module.exports.Product=productmodel;
 module.exports.validate = validateproduct;
