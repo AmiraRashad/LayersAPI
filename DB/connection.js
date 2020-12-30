@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 var config = require("config");
-config.get(db);
+//config.get(db);
  const URI="mongodb+srv://DBuser:amira123@cluster0.gdban.mongodb.net/layers?retryWrites=true&w=majority";
 
 
